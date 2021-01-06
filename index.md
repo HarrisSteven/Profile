@@ -19,6 +19,8 @@ Visualize the dynamic memory allocation in 32-bit ARM with the [stack visualizer
 
 # Research
 
+### FPGA Multitenant Security
+
 I am interested in computer vision research and am currently part of a group at UCSD working at the intersection of hardware security and vision.
 
 # Interests
