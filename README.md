@@ -1,8 +1,12 @@
-# Welcome to Steven's User Page!
+![Profile Picture](./images/Profile_Pic.PNG)
 
-![Profile Picture](https://github.com/HarrisSteven/Profile/blob/main/images/Profile_Pic.PNG)
+I am a computer science student studying at ~~UCB~~ the *University of California San Diego*. 
 
-I am a computer science student studying at the *University of California San Diego*. I am interested in **Web** and **Mobile development** as well as **computer vision** research. 
+I am interested in:
+1. **Software Engineering**
+   - **Web Development**
+   - **Mobile Development** 
+2. **Computer Vision** research. 
 
 > Low-level programming is good for the programmer’s soul.
 > — John Carmack
@@ -15,12 +19,15 @@ Visualize the dynamic memory allocation in 32-bit ARM with the [stack visualizer
 
 # Research
 
+### FPGA Multitenant Security
+
 I am interested in computer vision research and am currently part of a group at UCSD working at the intersection of hardware security and vision.
 
 # Interests
 
-* I enjoy playing the guitar :guitar: in my free time
+* I enjoy playing the guitar in my free time
 * I like to run on the beach 
 
-- [x] React
-- [ ] Angular
+- [x]  React
+- [ ]  Angular
+
