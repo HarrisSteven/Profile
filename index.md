@@ -11,7 +11,7 @@ I am a computer science student studying at the *University of California San Di
 
 ### Stack Visualizer
 
-Visualize the dynamic memory allocation in 32-bit ARM with the [stack visualizer](https://harrissteven.github.io/stack-visualizer/) 
+Visualize the dynamic memory allocation in 32-bit ARM with the [stack visualizer](https://harrissteven.github.io/stack-visualizer/) which supports basic instructions like `ADD` `MOV` and `LDR`
 
 # Research
 
@@ -21,3 +21,6 @@ I am interested in computer vision research and am currently part of a group at 
 
 * I enjoy playing the guitar :guitar: in my free time
 * I like to run on the beach 
+
+- [x] React
+- [ ] Angular
