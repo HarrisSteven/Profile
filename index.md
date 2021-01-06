@@ -17,8 +17,8 @@ I am interested in computer vision research and am currently part of a group at 
 
 # Interests
 
-* I enjoy playing the guitar :guitar: in my free time
+* I enjoy playing the guitar in my free time
 * I like to run on the beach 
 
-- [x] React
-- [ ] Angular
+- [x]  React
+- [ ]  Angular
