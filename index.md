@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to Steven's User Page!
 
-You can use the [editor on GitHub](https://github.com/HarrisSteven/Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image]("C:\Users\steve\Pictures\2019-05\Stevie_fix.jpg")"C:\Users\steve\Pictures\2019-05\Stevie_fix.jpg"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a computer science student studying at the *University of California San Diego*. I have experience in **Web** and **Mobile development** as well as **computer vision** research. 
+
+# Projects
+
+### Stack Visualizer
+
+Visualize the dynamic memory allocation in the 32-but ARM architecture with the [stack visualizer](https://harrissteven.github.io/stack-visualizer/) 
 
 ### Markdown
 
