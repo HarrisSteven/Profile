@@ -1,6 +1,6 @@
 # Welcome to Steven's User Page!
 
-![Profile Picture](https://github.com/HarrisSteven/Profile/blob/main/images/Profile_Pic.jpg)
+![Profile Picture](https://github.com/HarrisSteven/Profile/blob/main/images/Profile_Pic.PNG)
 
 I am a computer science student studying at the *University of California San Diego*. I am interested in **Web** and **Mobile development** as well as **computer vision** research. 
 
