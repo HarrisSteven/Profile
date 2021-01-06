@@ -11,8 +11,13 @@ I am a computer science student studying at the *University of California San Di
 
 ### Stack Visualizer
 
-Visualize the dynamic memory allocation in the 32-but ARM architecture with the [stack visualizer](https://harrissteven.github.io/stack-visualizer/) 
+Visualize the dynamic memory allocation in 32-bit ARM with the [stack visualizer](https://harrissteven.github.io/stack-visualizer/) 
+
+# Research
+
+I am interested in computer vision research and am currently part of a group at UCSD working at the intersection of hardware security and vision.
 
 # Interests
 
-I enjoy playing the guitar :guitar: in my free time
+* I enjoy playing the guitar :guitar: in my free time
+* I like to run on the beach 
